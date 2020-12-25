@@ -10,11 +10,11 @@ This is a binary classification problem where you need to predict whether an ad 
 
             Variable                                   	Description
       
-            UserID	 - Unique id for each row
-            ratings  - Metric out of 1 which represents how much of the targeted demographic watched the advertisement
-            airlocation	- Country of origin
+            UserID	- Unique id for each row
+            ratings - Metric out of 1 which represents how much of the targeted demographic watched the advertisement
+            airlocation - Country of origin
             airtime	- Time when the advertisement was aired
-            average_runtime(minutes_per_week)	-  Minutes per week the advertisement was aired
+            average_runtime(minutes_per_week)	- Minutes per week the advertisement was aired
             targeted_sex	- Sex that was mainly targeted for the advertisement
             genre - The type of advertisement
             industry	- The industry to which the product belonged
