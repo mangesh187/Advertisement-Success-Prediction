@@ -6,8 +6,8 @@ This is a binary classification problem where you need to predict whether an ad 
 
 ## Data Decription
 
->>> 
-          
+>>>
+
             Variable                                   	Description
       
             UserID	                                     Unique id for each row
